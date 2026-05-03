@@ -1,0 +1,7 @@
+CREATE TABLE complaint_images (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    complaint_id INT,
+    image VARCHAR(255),
+
+    FOREIGN KEY (complaint_id) REFERENCES complaints(id)
+);

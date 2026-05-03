@@ -1,4 +1,4 @@
-# Garbage-Collection-Complaint-Management-System
+
 CREATE TABLE complaint_status_log (
     id INT AUTO_INCREMENT PRIMARY KEY,
     complaint_id INT,

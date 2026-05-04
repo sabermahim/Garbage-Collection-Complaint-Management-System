@@ -1,0 +1,10 @@
+CREATE TABLE complaints (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT,
+    location VARCHAR(255) NOT NULL,
+    description TEXT NOT NULL,
+    status VARCHAR(50) DEFAULT 'Pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    
+    FOREIGN KEY (user_id) REFERENCES users(id)
+);

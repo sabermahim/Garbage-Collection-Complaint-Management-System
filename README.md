@@ -1,6 +1,6 @@
 Garbage Collection Complaint Management System
 
-Introduction
+Introduction:
 The purpose of this project is to create a digital platform where citizens can report garbage-related issues directly to the responsible authorities. The system helps make the complaint process faster, more transparent, and easier to manage.
 
 In many areas, garbage collection problems are handled manually through phone calls or office visits, which often leads to delays, poor communication, and untracked complaints. Our system solves this issue by introducing an online complaint management platform where users can submit complaints with images and track the progress of their reports.
@@ -47,6 +47,6 @@ The project uses a relational database design to organize users, complaints, com
 - Update complaint status
 - Maintain complaint history logs
 
-below we are showing our (ER diagram)
+Below we are showing our (ER diagram)
 <img width="850" height="1100" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/958ce742-706f-4395-ba34-ab2f2c5d2e0d" />
 

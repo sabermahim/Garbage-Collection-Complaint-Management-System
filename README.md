@@ -14,7 +14,25 @@ Admin management system
 Complaint history maintenance
 
 The project uses a relational database design to organize users, complaints, complaint images, admin information, and complaint status history efficiently
+## Features
+- User registration with unique ID
+- Submit garbage complaints with photos
+- Real-time status tracking
+- Admin dashboard to manage complaints
 
+## Tech Stack
+- PHP, MySQL, HTML, CSS
+- XAMPP (Apache + MySQL)
+
+## Setup
+1. Clone/download the repo
+2. Place files in `htdocs/garbage/`
+3. Import the SQL database in phpMyAdmin
+4. Visit `http://localhost/garbage/`
+
+## Admin Login
+- Username: `admin`
+- Password: `1234`
 # Main Features
 
 ## User Features

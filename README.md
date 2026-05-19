@@ -48,4 +48,5 @@ The project uses a relational database design to organize users, complaints, com
 - Maintain complaint history logs
 
 below we are showing our (ER diagram)
-<img width="850" height="1100" alt="garbage collection drawio (2)" src="https://github.com/user-attachments/assets/ca24c942-3f8a-4684-9aa4-480fb1bfe3ef" />
+<img width="850" height="1100" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/958ce742-706f-4395-ba34-ab2f2c5d2e0d" />
+

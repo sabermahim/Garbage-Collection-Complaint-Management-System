@@ -1,7 +1,7 @@
 Garbage Collection Complaint Management System
 
 Introduction
-The Garbage Collection Complaint Management System is a web-based application developed using PHP, MySQL, HTML, and CSS. The purpose of this project is to create a digital platform where citizens can report garbage-related issues directly to the responsible authorities. The system helps make the complaint process faster, more transparent, and easier to manage.
+The purpose of this project is to create a digital platform where citizens can report garbage-related issues directly to the responsible authorities. The system helps make the complaint process faster, more transparent, and easier to manage.
 
 In many areas, garbage collection problems are handled manually through phone calls or office visits, which often leads to delays, poor communication, and untracked complaints. Our system solves this issue by introducing an online complaint management platform where users can submit complaints with images and track the progress of their reports.
 
